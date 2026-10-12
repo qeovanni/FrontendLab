@@ -1,0 +1,30 @@
+{
+  "profil": {
+    "namn": "Geovanni Medina Herrera",
+    "titel": "Fullstackutvecklare .NET"
+  },
+  "sammanfattning": "Studerande till Fullstackutvecklare .NET med målsättning att påbörja praktik inom systemutveckling. Erfarenhet av att driva projekt, hantera komplexa ansvarsområden och samarbeta med olika intressenter i pedagogiska och sociala miljöer. Vana vid att strukturera arbete, dokumentera processer och kommunicera med individer i varierande åldrar och roller.",
+  "kompetenser": ["C#", ".NET", "REST API", "LINQ", "SQL Server", "Databasarkitektur", "Entity Framework", "JavaScript", "HTML & CSS", "React", "Git", "GitHub", "Visual Studio", "Agila metoder"],
+  "utbildningar": [
+    {
+      "skola": "Chas Academy",
+      "program": "Fullstackutvecklare .NET",
+      "period": "Aug 2025 – Jun 2027",
+      "beskrivning": "Omfattande yrkeshögskoleutbildning i systemutveckling med fokus på Microsoft-stacken. Söker LIA-praktik för perioden november 2026 till april 2027."
+    }
+  ],
+  "arbeten": [
+    {
+      "arbetsplats": "Huddinge kommun",
+      "roll": "Resurspedagog, lärare, kontaktperson",
+      "period": "Jan 2024 – Pågående",
+      "beskrivning": "Arbetar löpande med ett arvoderat uppdrag som kontaktperson. Arbetade tidigare som resurspedagog och lärare."
+    },
+    {
+      "arbetsplats": "Stockholms Stad",
+      "roll": "Resurspedagog, lärare",
+      "period": "Sep 2019 – Dec 2023",
+      "beskrivning": "Ansvarade för att strukturera, planera och driva en anpassad lärstudio för mellan- och högstadiet. Drev aktivt trygghetsarbete."
+    }
+  ]
+}
